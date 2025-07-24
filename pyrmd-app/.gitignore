@@ -1,0 +1,22 @@
+# Dependencies
+pyrmd-app/node_modules/
+pyrmd-app/.pnp
+pyrmd-app/.pnp.js
+
+# Production builds
+pyrmd-app/build/
+pyrmd-app/dist/
+
+# Environment variables
+.env*
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
